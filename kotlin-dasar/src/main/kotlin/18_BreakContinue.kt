@@ -18,7 +18,6 @@ fun main() {
             continue
         }
         println("Ini perulangan ke $a")
-
     }
 
 }
