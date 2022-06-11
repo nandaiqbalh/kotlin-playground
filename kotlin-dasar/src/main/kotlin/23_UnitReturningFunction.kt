@@ -3,7 +3,6 @@ fun main() {
     printHello(null)
 
 }
-
 // penggunaan kata Unit tidaklah wajib
 fun printHello(name: String?) :Unit{
 
