@@ -1,5 +1,3 @@
-import java.sql.Struct
-
 fun main() {
 
     val upperTransformer = { value: String -> value.toUpperCase() }
