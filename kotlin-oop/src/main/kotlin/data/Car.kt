@@ -1,3 +1,5 @@
+package data
+
 class Car (jenisParam: String, rodaParam: Int){
 
     init {
