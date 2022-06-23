@@ -13,4 +13,8 @@ fun main() {
     val student2 = Student("Nanda Iqbal Hanafi")
     student2.sayHelloStudent("Bruno Fernandes")
     student2.sayHelloStudent("Luke", "Shaw")
+
+    // pemanggilan this keyword
+    val student3 = Student("David de Gea")
+    student3.namaMurid("Jadon Sancho")
 }
